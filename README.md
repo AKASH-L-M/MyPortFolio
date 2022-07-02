@@ -5,6 +5,6 @@
 <br>Waiting to complete some work, so that i can add it to my Resume.
 
 <br><br> Completely based on creativity, and imagination.
-<br><b>*Proud that it shall not be Available in GOOGLE also. :)</b>
+<br><b>*Proud that it won't be Available in GOOGLE also. :)</b>
 
 <b><b>Copyright</b></b>
