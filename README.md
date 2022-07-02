@@ -8,4 +8,5 @@
 <br><b>*Proud that it shall not be Available in GOOGLE also. :)</b>
 
 <br> 
-![copyright](https://user-images.githubusercontent.com/91725049/177002440-29548909-6195-470d-81a3-f424c08e95c9.png) Copyright
+![copyright](https://user-images.githubusercontent.com/91725049/177002440-29548909-6195-470d-81a3-f424c08e95c9.png) 
+Copyright
