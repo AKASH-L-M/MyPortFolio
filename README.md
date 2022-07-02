@@ -7,6 +7,4 @@
 <br><br> Completely based on creativity, and imagination.
 <br><b>*Proud that it shall not be Available in GOOGLE also. :)</b>
 
-<img src="![copyright](https://user-images.githubusercontent.com/91725049/177002461-c50fd990-9d21-4cb0-b100-fa51014cc8b2.png)" width="20px" height="20px" />
-
-Copyright
+<b><b>Copyright</b></b>
