@@ -1,6 +1,6 @@
 # MyPortFolio
 <br>(Use laptop for better experience)<br>
-### Deploy link -> <u>Will be released soon</u>
+### Deploy link -> https://rapid-wildflower-9894.on.fleek.co
 <br> Professional Unique PortFolio.
 <br>This will be a static website deployed on internet.(Using Fleek)
 
