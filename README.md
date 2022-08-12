@@ -8,6 +8,3 @@
 <br><b>*Proud that it won't be Available in GOOGLE also. :)</b><br>
 [![](https://visitcount.itsvg.in/api?id=PortFolio&label=Profile%20Views&color=8&icon=6&pretty=false)](https://visitcount.itsvg.in)
 <br><b><b>Copyright</b></b>
-
-
-[![](https://visitcount.itsvg.in/api?id=Akash-L-M&label=Profile%20Views&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
