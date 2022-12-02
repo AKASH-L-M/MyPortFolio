@@ -1,6 +1,6 @@
 # MyPortFolio
 <br>(Use laptop for better experience)<br>
-### link in my Linkedin Profile -> https://www.linkedin.com/in/akash-l-m-19baa820a/
+### link -> https://akash-l-m.on.fleek.co/
 <br> Professional Unique PortFolio.
 <br>This will be a static website deployed on internet.(Using Fleek)
 <br><br>
